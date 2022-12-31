@@ -1,4 +1,4 @@
-__author__ = 'RozhakXD'
+__author__ = 'FikriXD'
 __madeBy__ = 'Love'
 __git__ = 'https://github.com/RozhakXD'
 
